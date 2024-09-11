@@ -1,0 +1,15 @@
+C:\Users\Arturo\source\repos\BarApp\BarApp\bin\Debug\net6.0\BarApp.exe
+C:\Users\Arturo\source\repos\BarApp\BarApp\bin\Debug\net6.0\BarApp.deps.json
+C:\Users\Arturo\source\repos\BarApp\BarApp\bin\Debug\net6.0\BarApp.runtimeconfig.json
+C:\Users\Arturo\source\repos\BarApp\BarApp\bin\Debug\net6.0\BarApp.dll
+C:\Users\Arturo\source\repos\BarApp\BarApp\bin\Debug\net6.0\BarApp.pdb
+C:\Users\Arturo\source\repos\BarApp\BarApp\obj\Debug\net6.0\BarApp.csproj.AssemblyReference.cache
+C:\Users\Arturo\source\repos\BarApp\BarApp\obj\Debug\net6.0\BarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturo\source\repos\BarApp\BarApp\obj\Debug\net6.0\BarApp.AssemblyInfoInputs.cache
+C:\Users\Arturo\source\repos\BarApp\BarApp\obj\Debug\net6.0\BarApp.AssemblyInfo.cs
+C:\Users\Arturo\source\repos\BarApp\BarApp\obj\Debug\net6.0\BarApp.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\source\repos\BarApp\BarApp\obj\Debug\net6.0\BarApp.dll
+C:\Users\Arturo\source\repos\BarApp\BarApp\obj\Debug\net6.0\refint\BarApp.dll
+C:\Users\Arturo\source\repos\BarApp\BarApp\obj\Debug\net6.0\BarApp.pdb
+C:\Users\Arturo\source\repos\BarApp\BarApp\obj\Debug\net6.0\BarApp.genruntimeconfig.cache
+C:\Users\Arturo\source\repos\BarApp\BarApp\obj\Debug\net6.0\ref\BarApp.dll
