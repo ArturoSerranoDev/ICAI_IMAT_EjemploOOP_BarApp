@@ -21,7 +21,7 @@
         {
             Person person = peopleAtBar[i];
 
-            Console.WriteLine(person.Age + " enters by the front door");
+            Console.WriteLine(person.Name + " enters by the front door");
 
             // Ignore babies
             if (person.Age < MIN_AGE_TO_BE_SERVED)
