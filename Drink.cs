@@ -20,7 +20,7 @@
             }
 
             // Ternary operator example
-            //return price + (alcoholPercentage <= 0 ? alcoholPercentage / 100f : 0);
+            //return price + (alcoholPercentage >= 0 ? alcoholPercentage / 100f : 0);
         }
     }
 
